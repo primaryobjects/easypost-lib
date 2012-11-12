@@ -1,7 +1,7 @@
 {
   "name": "easypost",
-  "version": "0.1.0",
-  "description": "Read POST data in node.js from a form submission or REST client using an easy manager method: getPostData",
+  "version": "0.1.1",
+  "description": "Read POST data in node.js from a form submission or REST client using an easy manager method: easypost.get(req, res, function (data) {});",
   "author": {
     "name": "Kory Becker",
     "email": "kbecker@primaryobjects.com",
