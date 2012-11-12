@@ -1,0 +1,34 @@
+{
+  "name": "easypost",
+  "version": "0.1.0",
+  "description": "Read POST data in node.js from a form submission or REST client using an easy manager method: getPostData",
+  "author": {
+    "name": "Kory Becker",
+    "email": "kbecker@primaryobjects.com",
+    "url": "http://www.primaryobjects.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/primaryobjects/easypost-lib.git"
+  },
+  "main": "./lib",
+  "dependencies": {},
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "post",
+    "form",
+    "data",
+    "submit",
+	"easypost"
+  ],
+  "_id": "easypost@0.1.0",
+  "_from": "easypost"
+}
