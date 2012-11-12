@@ -25,8 +25,14 @@ var easypost = require('easypost');
 ```
 ## Notes
 
-In the above examples, the first example assumes your form contains the element: <<input type='text' id='txtName' />>
-The second example assumes a REST client has posted the following data: {"txtName": "My Name"}
+In the above examples, the first example assumes your form contains the element:
+```
+<input type='text' id='txtName' />
+```
+The second example assumes a REST client has posted the following data:
+```
+{"txtName": "My Name"}
+```
 
 You can view a tutorial article using EasyPost at http://www.primaryobjects.com/CMS/Article144.aspx
 
