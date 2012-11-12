@@ -1,6 +1,6 @@
 ﻿EasyPost
 
-An easy method for reading POST data in Node.js web applications. EasyPost supports both form submissions and REST client posts. It also provides a single location for maintaing the code that reads POST data, allowing you to enhance it, such as with checks for flooding attacks, etc.
+An easy method for reading POST data in Node.js web applications. EasyPost supports both form submissions and REST client posts. It also provides a single location for maintaining the code that reads POST data, allowing you to enhance it, such as with checks for flooding attacks, etc.
 
 Examples
 
