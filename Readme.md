@@ -11,13 +11,13 @@ $ npm install easypost
 ```
 var easypost = require('easypost');
 ```
-## Reading POST Data From a Form
+### Reading POST Data From a Form
 ```
     easypost.get(req, res, function (data) {
         res.render('index', { txtName: data.txtName });
     });
 ```
-## Reading POST Data From a REST Client
+### Reading POST Data From a REST Client
 ```
     easypost.get(req, res, function (data) {
         data = JSON.parse(data);
