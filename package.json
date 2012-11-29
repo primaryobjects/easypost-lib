@@ -27,7 +27,13 @@
     "form",
     "data",
     "submit",
-	"easypost"
+    "easypost",
+	"easy post",
+	"post data",
+	"read post",
+	"read post data",
+	"easypost.js",
+	"easypost .js"
   ],
   "_id": "easypost@0.1.1",
   "_from": "easypost"
